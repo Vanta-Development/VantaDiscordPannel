@@ -1,2 +1,2 @@
-# VantaDiscordPannel
-The advantage all discord mods need. Dowload this, set up your bot and manage your servers!
+# Setup
+view our [docs](https://documentation-chi-hazel.vercel.app/) for the set up process.
